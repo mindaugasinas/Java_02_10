@@ -14,8 +14,8 @@ public class Main {
         float b = sc.nextFloat();
 
         System.out.println("Suma: " + Skaiciuotuvas.suma(a,b));
-        System.out.println("Skirtumas: " + Skaiciuotuvas.suma(a,b));
-        System.out.println("Sandauga: " + Skaiciuotuvas.suma(a,b));
+        System.out.println("Skirtumas: " + Skaiciuotuvas.skirtumas(a,b));
+        System.out.println("Sandauga: " + Skaiciuotuvas.sandauga(a,b));
 
 
 
